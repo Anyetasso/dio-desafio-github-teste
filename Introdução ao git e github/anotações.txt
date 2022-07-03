@@ -1,0 +1,2 @@
+link para download do gi- t https://git-scm.com/
+O Git Bash é um terminal estrendido para otimizar p uso do git 
